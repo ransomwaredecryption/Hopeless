@@ -13,7 +13,7 @@ This repository serves strictly as a **behavioral blueprint** for malware analys
 ## ⚠️ Important Disclaimer
 
 > [!CAUTION]
-> **EDUCATIONAL AND RESEARCH PURPOSES ONLY.**  
+> **ONLY FOR PEOPLE THAT HAS MONEY.**  
 > Running or modifying this software without proper isolation will cause **permanent, irreversible data loss and operating system corruption**. The authors and contributors assume no liability for damages caused by the misuse of this code. Always execute inside a dedicated, non-networked malware analysis sandbox or hypervisor.
 
 ---
